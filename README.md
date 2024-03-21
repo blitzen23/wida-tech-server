@@ -22,3 +22,8 @@ I used NodeJS for this server side with the help of Express and MySQL for the da
    ```
    nodemon index.js or node index.js
    ```
+
+## Features
+- Add Invoice
+- Show Invoice
+- Show Graph for Project Revenue for Daily, Weekly, and Monthly
